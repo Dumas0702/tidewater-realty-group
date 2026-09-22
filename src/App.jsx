@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import coastalEstate from './assets/coastal-estate.webp'
+import coastalEstate from './assets/coastal-estate.jpg'
 import teamBrand from './assets/tidewater-team-brand.webp'
 import './App.css'
 
@@ -59,7 +59,7 @@ function Hero() {
       <div className="shell">
         <div className="hero-copy">
           <div className="eyebrow">Alabama Gulf Coast Real Estate</div>
-          <h1>Find where life meets the <em>water.</em></h1>
+          <h1>Let us help you find <em>paradise.</em></h1>
           <p>Local perspective, seasoned guidance, and a personal approach to buying and selling along the coast.</p>
           <div className="hero-actions">
             <a className="button primary" href="#search">Explore Homes</a>
